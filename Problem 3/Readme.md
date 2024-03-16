@@ -20,7 +20,7 @@ The program performs the following tasks:
 
 Ex: If the input of the program is:
 
-    StudentInfo.tsv
+   StudentInfo.tsv 
 
 and the contents of StudentInfo.tsv are:
 

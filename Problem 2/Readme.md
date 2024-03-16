@@ -8,7 +8,7 @@ Ex: If the input is:
     millennium
 
 and the contents of input1.txt are:
-
+    
     aspiration
     classified
     federation
